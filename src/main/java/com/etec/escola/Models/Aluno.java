@@ -16,10 +16,6 @@ public class Aluno {
     private String email;
     private String telefone;
 
-    public Aluno(){}
-
-
-
     public Long getId() {
         return id;
     }
